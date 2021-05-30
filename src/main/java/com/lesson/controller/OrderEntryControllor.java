@@ -30,7 +30,7 @@ public class OrderEntryControllor {
     Logger logger = Logger.getLogger(OrderEntryControllor.class);
 
     /**
-     * 展示菜品
+     * 展示菜品1
      *
      * @param model
      * @param mid     菜品id （查询用）
